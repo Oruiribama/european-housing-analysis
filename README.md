@@ -58,12 +58,9 @@ This project demonstrates advanced SQL skills through a real-world analysis of E
 │   └── phase-4-advanced/            # Custom scoring, pattern detection
 ├── findings/
 │   ├── key-insights.md              # Business insights summary
-│   └── investment-recommendations.md # Actionable recommendations
 ├── data/
 │   └── european_housing_prices_clean.csv
-└── docs/
-    ├── data-dictionary.md
-    └── methodology.md
+
 ```
 
 ---

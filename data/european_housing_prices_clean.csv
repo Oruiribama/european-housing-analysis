@@ -1,0 +1,418 @@
+country,country_type,eu_member,eurozone_member,year,quarter_num,quarter,price_index,quarterly_change_pct,yearly_change_pct,price_change_since_2015_pct
+Austria,Individual,Yes,Yes,2022,4.00,2022-Q4,166.32,-4.20,5.70,66.32
+Austria,Individual,Yes,Yes,2023,1.00,2023-Q1,164.35,-1.20,-0.20,64.35
+Austria,Individual,Yes,Yes,2023,2.00,2023-Q2,164.68,0.20,-2.80,64.68
+Austria,Individual,Yes,Yes,2023,3.00,2023-Q3,164.29,-0.20,-5.40,64.29
+Austria,Individual,Yes,Yes,2023,4.00,2023-Q4,161.40,-1.80,-3.00,61.40
+Austria,Individual,Yes,Yes,2024,1.00,2024-Q1,159.54,-1.20,-2.90,59.54
+Austria,Individual,Yes,Yes,2024,2.00,2024-Q2,164.34,3.00,-0.20,64.34
+Austria,Individual,Yes,Yes,2024,3.00,2024-Q3,165.13,0.50,0.50,65.13
+Austria,Individual,Yes,Yes,2024,4.00,2024-Q4,163.23,-1.20,1.10,63.23
+Austria,Individual,Yes,Yes,2025,1.00,2025-Q1,165.17,1.20,3.50,65.17
+Austria,Individual,Yes,Yes,2025,2.00,2025-Q2,166.95,1.10,1.60,66.95
+Austria,Individual,Yes,Yes,2025,3.00,2025-Q3,169.64,1.60,2.70,69.64
+Belgium,Individual,Yes,Yes,2022,4.00,2022-Q4,134.55,-0.30,4.60,34.55
+Belgium,Individual,Yes,Yes,2023,1.00,2023-Q1,135.04,0.40,3.90,35.04
+Belgium,Individual,Yes,Yes,2023,2.00,2023-Q2,134.55,-0.40,1.80,34.55
+Belgium,Individual,Yes,Yes,2023,3.00,2023-Q3,136.31,1.30,1.00,36.31
+Belgium,Individual,Yes,Yes,2023,4.00,2023-Q4,138.28,1.40,2.80,38.28
+Belgium,Individual,Yes,Yes,2024,1.00,2024-Q1,139.36,0.80,3.20,39.36
+Belgium,Individual,Yes,Yes,2024,2.00,2024-Q2,138.96,-0.30,3.30,38.96
+Belgium,Individual,Yes,Yes,2024,3.00,2024-Q3,141.16,1.60,3.60,41.16
+Belgium,Individual,Yes,Yes,2024,4.00,2024-Q4,142.18,0.70,2.80,42.18
+Belgium,Individual,Yes,Yes,2025,1.00,2025-Q1,143.08,0.60,2.70,43.08
+Belgium,Individual,Yes,Yes,2025,2.00,2025-Q2,142.94,-0.10,2.90,42.94
+Belgium,Individual,Yes,Yes,2025,3.00,2025-Q3,146.39,2.40,3.70,46.39
+Bulgaria,Individual,Yes,No,2022,4.00,2022-Q4,175.14,0.40,13.40,75.14
+Bulgaria,Individual,Yes,No,2023,1.00,2023-Q1,177.93,1.60,9.50,77.93
+Bulgaria,Individual,Yes,No,2023,2.00,2023-Q2,185.50,4.30,10.70,85.50
+Bulgaria,Individual,Yes,No,2023,3.00,2023-Q3,190.48,2.70,9.20,90.48
+Bulgaria,Individual,Yes,No,2023,4.00,2023-Q4,192.78,1.20,10.10,92.78
+Bulgaria,Individual,Yes,No,2024,1.00,2024-Q1,206.42,7.10,16.00,106.42
+Bulgaria,Individual,Yes,No,2024,2.00,2024-Q2,213.53,3.40,15.10,113.53
+Bulgaria,Individual,Yes,No,2024,3.00,2024-Q3,221.91,3.90,16.50,121.91
+Bulgaria,Individual,Yes,No,2024,4.00,2024-Q4,228.00,2.70,18.30,128.00
+Bulgaria,Individual,Yes,No,2025,1.00,2025-Q1,237.55,4.20,15.10,137.55
+Bulgaria,Individual,Yes,No,2025,2.00,2025-Q2,246.65,3.80,15.50,146.65
+Bulgaria,Individual,Yes,No,2025,3.00,2025-Q3,256.01,3.80,15.40,156.01
+Croatia,Individual,Yes,Yes,2022,4.00,2022-Q4,170.11,4.70,17.30,70.11
+Croatia,Individual,Yes,Yes,2023,1.00,2023-Q1,173.56,2.00,14.00,73.56
+Croatia,Individual,Yes,Yes,2023,2.00,2023-Q2,179.63,3.50,13.70,79.63
+Croatia,Individual,Yes,Yes,2023,3.00,2023-Q3,180.09,0.30,10.90,80.09
+Croatia,Individual,Yes,Yes,2023,4.00,2023-Q4,186.24,3.40,9.50,86.24
+Croatia,Individual,Yes,Yes,2024,1.00,2024-Q1,189.41,1.70,9.10,89.41
+Croatia,Individual,Yes,Yes,2024,2.00,2024-Q2,197.53,4.30,10.00,97.53
+Croatia,Individual,Yes,Yes,2024,3.00,2024-Q3,202.19,2.40,12.30,102.19
+Croatia,Individual,Yes,Yes,2024,4.00,2024-Q4,205.01,1.40,10.10,105.01
+Croatia,Individual,Yes,Yes,2025,1.00,2025-Q1,214.18,4.50,13.10,114.18
+Croatia,Individual,Yes,Yes,2025,2.00,2025-Q2,223.65,4.40,13.20,123.65
+Croatia,Individual,Yes,Yes,2025,3.00,2025-Q3,230.07,2.90,13.80,130.07
+Cyprus,Individual,Yes,Yes,2022,4.00,2022-Q4,124.14,-5.20,6.80,24.14
+Cyprus,Individual,Yes,Yes,2023,1.00,2023-Q1,131.69,6.10,12.00,31.69
+Cyprus,Individual,Yes,Yes,2023,2.00,2023-Q2,132.20,0.40,10.00,32.20
+Cyprus,Individual,Yes,Yes,2023,3.00,2023-Q3,136.52,3.30,4.30,36.52
+Cyprus,Individual,Yes,Yes,2023,4.00,2023-Q4,137.98,1.10,11.10,37.98
+Cyprus,Individual,Yes,Yes,2024,1.00,2024-Q1,143.52,4.00,9.00,43.52
+Cyprus,Individual,Yes,Yes,2024,2.00,2024-Q2,143.34,-0.10,8.40,43.34
+Cyprus,Individual,Yes,Yes,2024,3.00,2024-Q3,146.76,2.40,7.50,46.76
+Cyprus,Individual,Yes,Yes,2024,4.00,2024-Q4,144.20,-1.70,4.50,44.20
+Cyprus,Individual,Yes,Yes,2025,1.00,2025-Q1,150.04,4.00,4.50,50.04
+Cyprus,Individual,Yes,Yes,2025,2.00,2025-Q2,147.24,-1.90,2.70,47.24
+Cyprus,Individual,Yes,Yes,2025,3.00,2025-Q3,146.86,-0.30,0.10,46.86
+Czechia,Individual,Yes,No,2022,4.00,2022-Q4,214.50,-2.20,6.90,114.50
+Czechia,Individual,Yes,No,2023,1.00,2023-Q1,211.80,-1.30,0.90,111.80
+Czechia,Individual,Yes,No,2023,2.00,2023-Q2,211.00,-0.40,-2.90,111.00
+Czechia,Individual,Yes,No,2023,3.00,2023-Q3,211.70,0.30,-3.50,111.70
+Czechia,Individual,Yes,No,2023,4.00,2023-Q4,212.30,0.30,-1.00,112.30
+Czechia,Individual,Yes,No,2024,1.00,2024-Q1,214.30,0.90,1.20,114.30
+Czechia,Individual,Yes,No,2024,2.00,2024-Q2,219.90,2.60,4.20,119.90
+Czechia,Individual,Yes,No,2024,3.00,2024-Q3,224.70,2.20,6.10,124.70
+Czechia,Individual,Yes,No,2024,4.00,2024-Q4,230.20,2.40,8.40,130.20
+Czechia,Individual,Yes,No,2025,1.00,2025-Q1,235.60,2.30,9.90,135.60
+Czechia,Individual,Yes,No,2025,2.00,2025-Q2,243.00,3.10,10.50,143.00
+Czechia,Individual,Yes,No,2025,3.00,2025-Q3,249.00,2.50,10.80,149.00
+Denmark,Individual,Yes,No,2022,4.00,2022-Q4,140.99,-2.40,0.70,40.99
+Denmark,Individual,Yes,No,2023,1.00,2023-Q1,135.13,-4.20,-4.50,35.13
+Denmark,Individual,Yes,No,2023,2.00,2023-Q2,135.67,0.40,-5.80,35.67
+Denmark,Individual,Yes,No,2023,3.00,2023-Q3,138.07,1.80,-4.40,38.07
+Denmark,Individual,Yes,No,2023,4.00,2023-Q4,140.26,1.60,-0.50,40.26
+Denmark,Individual,Yes,No,2024,1.00,2024-Q1,136.66,-2.60,1.10,36.66
+Denmark,Individual,Yes,No,2024,2.00,2024-Q2,140.94,3.10,3.90,40.94
+Denmark,Individual,Yes,No,2024,3.00,2024-Q3,145.27,3.10,5.20,45.27
+Denmark,Individual,Yes,No,2024,4.00,2024-Q4,145.57,0.20,3.80,45.57
+Denmark,Individual,Yes,No,2025,1.00,2025-Q1,148.72,2.20,8.80,48.72
+Denmark,Individual,Yes,No,2025,2.00,2025-Q2,151.40,1.80,7.40,51.40
+Denmark,Individual,Yes,No,2025,3.00,2025-Q3,155.15,2.50,6.80,55.15
+Estonia,Individual,Yes,Yes,2022,4.00,2022-Q4,191.38,0.20,16.90,91.38
+Estonia,Individual,Yes,Yes,2023,1.00,2023-Q1,191.43,0.00,9.20,91.43
+Estonia,Individual,Yes,Yes,2023,2.00,2023-Q2,198.79,3.80,5.00,98.79
+Estonia,Individual,Yes,Yes,2023,3.00,2023-Q3,198.26,-0.30,3.80,98.26
+Estonia,Individual,Yes,Yes,2023,4.00,2023-Q4,202.40,2.10,5.80,102.40
+Estonia,Individual,Yes,Yes,2024,1.00,2024-Q1,206.38,2.00,7.80,106.38
+Estonia,Individual,Yes,Yes,2024,2.00,2024-Q2,212.10,2.80,6.70,112.10
+Estonia,Individual,Yes,Yes,2024,3.00,2024-Q3,211.03,-0.50,6.40,111.03
+Estonia,Individual,Yes,Yes,2024,4.00,2024-Q4,209.64,-0.70,3.60,109.64
+Estonia,Individual,Yes,Yes,2025,1.00,2025-Q1,215.90,3.00,4.60,115.90
+Estonia,Individual,Yes,Yes,2025,2.00,2025-Q2,223.74,3.60,5.50,123.74
+Estonia,Individual,Yes,Yes,2025,3.00,2025-Q3,221.98,-0.80,5.20,121.98
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2022,4.00,2022-Q4,144.25,-1.80,3.10,44.25
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2023,1.00,2023-Q1,142.96,-0.90,0.40,42.96
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2023,2.00,2023-Q2,143.22,0.20,-1.60,43.22
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2023,3.00,2023-Q3,143.52,0.20,-2.30,43.52
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2023,4.00,2023-Q4,142.44,-0.80,-1.30,42.44
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2024,1.00,2024-Q1,142.59,0.10,-0.30,42.59
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2024,2.00,2024-Q2,145.22,1.80,1.40,45.22
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2024,3.00,2024-Q3,147.50,1.60,2.80,47.50
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2024,4.00,2024-Q4,148.33,0.60,4.10,48.33
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2025,1.00,2025-Q1,150.16,1.20,5.30,50.16
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2025,2.00,2025-Q2,152.68,1.70,5.10,52.68
+"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023, EA21-2026)",Aggregate,N/A,N/A,2025,3.00,2025-Q3,155.09,1.60,5.10,55.09
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2022,4.00,2022-Q4,144.44,-1.70,3.20,44.44
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2023,1.00,2023-Q1,143.15,-0.90,0.50,43.15
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2023,2.00,2023-Q2,143.41,0.20,-1.50,43.41
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2023,3.00,2023-Q3,143.70,0.20,-2.20,43.70
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2023,4.00,2023-Q4,142.62,-0.80,-1.30,42.62
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2024,1.00,2024-Q1,142.78,0.10,-0.30,42.78
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2024,2.00,2024-Q2,145.41,1.80,1.40,45.41
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2024,3.00,2024-Q3,147.70,1.60,2.80,47.70
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2024,4.00,2024-Q4,148.53,0.60,4.10,48.53
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2025,1.00,2025-Q1,150.35,1.20,5.30,50.35
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2025,2.00,2025-Q2,152.88,1.70,5.10,52.88
+Euro area – 20 countries (2023-2025),Aggregate,N/A,N/A,2025,3.00,2025-Q3,155.29,1.60,5.10,55.29
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2022,4.00,2022-Q4,144.74,-1.70,3.30,44.74
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2023,1.00,2023-Q1,143.48,-0.90,0.60,43.48
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2023,2.00,2023-Q2,143.81,0.20,-1.40,43.81
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2023,3.00,2023-Q3,144.15,0.20,-2.10,44.15
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2023,4.00,2023-Q4,143.10,-0.70,-1.10,43.10
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2024,1.00,2024-Q1,143.37,0.20,-0.10,43.37
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2024,2.00,2024-Q2,146.05,1.90,1.60,46.05
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2024,3.00,2024-Q3,148.39,1.60,2.90,48.39
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2024,4.00,2024-Q4,149.26,0.60,4.30,49.26
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2025,1.00,2025-Q1,151.15,1.30,5.40,51.15
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2025,2.00,2025-Q2,153.73,1.70,5.30,53.73
+Euro area – 21 countries (from 2026),Aggregate,N/A,N/A,2025,3.00,2025-Q3,156.19,1.60,5.30,56.19
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2022,4.00,2022-Q4,147.94,-1.40,3.90,47.94
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2023,1.00,2023-Q1,146.78,-0.80,0.90,46.78
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2023,2.00,2023-Q2,147.38,0.40,-0.90,47.38
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2023,3.00,2023-Q3,148.34,0.70,-1.20,48.34
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2023,4.00,2023-Q4,148.06,-0.20,0.10,48.06
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2024,1.00,2024-Q1,148.99,0.60,1.50,48.99
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2024,2.00,2024-Q2,151.85,1.90,3.00,51.85
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2024,3.00,2024-Q3,154.23,1.60,4.00,54.23
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2024,4.00,2024-Q4,155.37,0.70,4.90,55.37
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2025,1.00,2025-Q1,157.55,1.40,5.70,57.55
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2025,2.00,2025-Q2,160.14,1.60,5.50,60.14
+"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)",Aggregate,N/A,N/A,2025,3.00,2025-Q3,162.73,1.60,5.50,62.73
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2022,4.00,2022-Q4,148.74,-1.40,3.90,48.74
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2023,1.00,2023-Q1,147.58,-0.80,0.90,47.58
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2023,2.00,2023-Q2,148.19,0.40,-0.90,48.19
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2023,3.00,2023-Q3,149.15,0.60,-1.20,49.15
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2023,4.00,2023-Q4,148.87,-0.20,0.10,48.87
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2024,1.00,2024-Q1,149.80,0.60,1.50,49.80
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2024,2.00,2024-Q2,152.68,1.90,3.00,52.68
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2024,3.00,2024-Q3,155.07,1.60,4.00,55.07
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2024,4.00,2024-Q4,156.22,0.70,4.90,56.22
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2025,1.00,2025-Q1,158.41,1.40,5.70,58.41
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2025,2.00,2025-Q2,161.02,1.60,5.50,61.02
+European Union - 27 countries (from 2020),Aggregate,N/A,N/A,2025,3.00,2025-Q3,163.62,1.60,5.50,63.62
+Finland,Individual,Yes,Yes,2022,4.00,2022-Q4,108.51,-3.30,-2.30,8.51
+Finland,Individual,Yes,Yes,2023,1.00,2023-Q1,105.75,-2.50,-5.50,5.75
+Finland,Individual,Yes,Yes,2023,2.00,2023-Q2,106.58,0.80,-6.10,6.58
+Finland,Individual,Yes,Yes,2023,3.00,2023-Q3,103.51,-2.90,-7.80,3.51
+Finland,Individual,Yes,Yes,2023,4.00,2023-Q4,102.48,-1.00,-5.60,2.48
+Finland,Individual,Yes,Yes,2024,1.00,2024-Q1,101.50,-1.00,-4.00,1.50
+Finland,Individual,Yes,Yes,2024,2.00,2024-Q2,101.85,0.30,-4.40,1.85
+Finland,Individual,Yes,Yes,2024,3.00,2024-Q3,101.45,-0.40,-2.00,1.45
+Finland,Individual,Yes,Yes,2024,4.00,2024-Q4,100.59,-0.80,-1.80,0.59
+Finland,Individual,Yes,Yes,2025,1.00,2025-Q1,99.56,-1.00,-1.90,-0.44
+Finland,Individual,Yes,Yes,2025,2.00,2025-Q2,100.50,0.90,-1.30,0.50
+Finland,Individual,Yes,Yes,2025,3.00,2025-Q3,98.28,-2.20,-3.10,-1.72
+France,Individual,Yes,Yes,2022,4.00,2022-Q4,133.50,-0.60,4.70,33.50
+France,Individual,Yes,Yes,2023,1.00,2023-Q1,132.32,-0.90,2.90,32.32
+France,Individual,Yes,Yes,2023,2.00,2023-Q2,131.72,-0.50,0.70,31.72
+France,Individual,Yes,Yes,2023,3.00,2023-Q3,132.25,0.40,-1.60,32.25
+France,Individual,Yes,Yes,2023,4.00,2023-Q4,128.73,-2.70,-3.60,28.73
+France,Individual,Yes,Yes,2024,1.00,2024-Q1,125.96,-2.20,-4.80,25.96
+France,Individual,Yes,Yes,2024,2.00,2024-Q2,125.68,-0.20,-4.60,25.68
+France,Individual,Yes,Yes,2024,3.00,2024-Q3,127.64,1.60,-3.50,27.64
+France,Individual,Yes,Yes,2024,4.00,2024-Q4,126.28,-1.10,-1.90,26.28
+France,Individual,Yes,Yes,2025,1.00,2025-Q1,126.54,0.20,0.50,26.54
+France,Individual,Yes,Yes,2025,2.00,2025-Q2,126.54,0.00,0.70,26.54
+France,Individual,Yes,Yes,2025,3.00,2025-Q3,128.54,1.60,0.70,28.54
+Germany,Individual,Yes,Yes,2022,4.00,2022-Q4,158.50,-4.70,-2.50,58.50
+Germany,Individual,Yes,Yes,2023,1.00,2023-Q1,153.70,-3.00,-6.30,53.70
+Germany,Individual,Yes,Yes,2023,2.00,2023-Q2,151.60,-1.40,-9.40,51.60
+Germany,Individual,Yes,Yes,2023,3.00,2023-Q3,149.30,-1.50,-10.20,49.30
+Germany,Individual,Yes,Yes,2023,4.00,2023-Q4,146.40,-1.90,-7.60,46.40
+Germany,Individual,Yes,Yes,2024,1.00,2024-Q1,145.80,-0.40,-5.10,45.80
+Germany,Individual,Yes,Yes,2024,2.00,2024-Q2,147.80,1.40,-2.50,47.80
+Germany,Individual,Yes,Yes,2024,3.00,2024-Q3,149.00,0.80,-0.20,49.00
+Germany,Individual,Yes,Yes,2024,4.00,2024-Q4,149.20,0.10,1.90,49.20
+Germany,Individual,Yes,Yes,2025,1.00,2025-Q1,150.90,1.10,3.50,50.90
+Germany,Individual,Yes,Yes,2025,2.00,2025-Q2,152.40,1.00,3.10,52.40
+Germany,Individual,Yes,Yes,2025,3.00,2025-Q3,153.90,1.00,3.30,53.90
+Hungary,Individual,Yes,No,2022,4.00,2022-Q4,258.43,-1.70,17.50,158.43
+Hungary,Individual,Yes,No,2023,1.00,2023-Q1,268.81,4.00,11.30,168.81
+Hungary,Individual,Yes,No,2023,2.00,2023-Q2,271.54,1.00,6.40,171.54
+Hungary,Individual,Yes,No,2023,3.00,2023-Q3,272.63,0.40,3.70,172.63
+Hungary,Individual,Yes,No,2023,4.00,2023-Q4,277.19,1.70,7.30,177.19
+Hungary,Individual,Yes,No,2024,1.00,2024-Q1,300.99,8.60,12.00,200.99
+Hungary,Individual,Yes,No,2024,2.00,2024-Q2,306.51,1.80,12.90,206.51
+Hungary,Individual,Yes,No,2024,3.00,2024-Q3,309.83,1.10,13.60,209.83
+Hungary,Individual,Yes,No,2024,4.00,2024-Q4,322.11,4.00,16.20,222.11
+Hungary,Individual,Yes,No,2025,1.00,2025-Q1,352.26,9.40,17.00,252.26
+Hungary,Individual,Yes,No,2025,2.00,2025-Q2,363.76,3.30,18.70,263.76
+Hungary,Individual,Yes,No,2025,3.00,2025-Q3,375.19,3.10,21.10,275.19
+Iceland,Individual,No,No,2022,4.00,2022-Q4,227.61,1.40,21.00,127.61
+Iceland,Individual,No,No,2023,1.00,2023-Q1,226.99,-0.30,15.80,126.99
+Iceland,Individual,No,No,2023,2.00,2023-Q2,232.60,2.50,10.10,132.60
+Iceland,Individual,No,No,2023,3.00,2023-Q3,230.49,-0.90,2.70,130.49
+Iceland,Individual,No,No,2023,4.00,2023-Q4,236.19,2.50,3.80,136.19
+Iceland,Individual,No,No,2024,1.00,2024-Q1,239.87,1.60,5.70,139.87
+Iceland,Individual,No,No,2024,2.00,2024-Q2,246.90,2.90,6.10,146.90
+Iceland,Individual,No,No,2024,3.00,2024-Q3,256.22,3.80,11.20,156.22
+Iceland,Individual,No,No,2024,4.00,2024-Q4,257.89,0.70,9.20,157.89
+Iceland,Individual,No,No,2025,1.00,2025-Q1,258.38,0.20,7.70,158.38
+Iceland,Individual,No,No,2025,2.00,2025-Q2,262.48,1.60,6.30,162.48
+Iceland,Individual,No,No,2025,3.00,2025-Q3,265.13,1.00,3.50,165.13
+Ireland,Individual,Yes,Yes,2022,4.00,2022-Q4,168.41,1.20,8.60,68.41
+Ireland,Individual,Yes,Yes,2023,1.00,2023-Q1,167.16,-0.70,5.10,67.16
+Ireland,Individual,Yes,Yes,2023,2.00,2023-Q2,166.30,-0.50,2.70,66.30
+Ireland,Individual,Yes,Yes,2023,3.00,2023-Q3,168.79,1.50,1.40,68.79
+Ireland,Individual,Yes,Yes,2023,4.00,2023-Q4,173.69,2.90,3.10,73.69
+Ireland,Individual,Yes,Yes,2024,1.00,2024-Q1,177.70,2.30,6.30,77.70
+Ireland,Individual,Yes,Yes,2024,2.00,2024-Q2,180.34,1.50,8.40,80.34
+Ireland,Individual,Yes,Yes,2024,3.00,2024-Q3,185.50,2.90,9.90,85.50
+Ireland,Individual,Yes,Yes,2024,4.00,2024-Q4,189.97,2.40,9.40,89.97
+Ireland,Individual,Yes,Yes,2025,1.00,2025-Q1,191.83,1.00,8.00,91.83
+Ireland,Individual,Yes,Yes,2025,2.00,2025-Q2,194.34,1.30,7.80,94.34
+Ireland,Individual,Yes,Yes,2025,3.00,2025-Q3,199.46,2.60,7.50,99.46
+Italy,Individual,Yes,Yes,2022,4.00,2022-Q4,106.80,-0.10,2.70,6.80
+Italy,Individual,Yes,Yes,2023,1.00,2023-Q1,106.80,0.00,1.00,6.80
+Italy,Individual,Yes,Yes,2023,2.00,2023-Q2,108.80,1.90,0.60,8.80
+Italy,Individual,Yes,Yes,2023,3.00,2023-Q3,108.70,-0.10,1.70,8.70
+Italy,Individual,Yes,Yes,2023,4.00,2023-Q4,108.70,0.00,1.80,8.70
+Italy,Individual,Yes,Yes,2024,1.00,2024-Q1,108.50,-0.20,1.60,8.50
+Italy,Individual,Yes,Yes,2024,2.00,2024-Q2,112.00,3.20,2.90,12.00
+Italy,Individual,Yes,Yes,2024,3.00,2024-Q3,112.80,0.70,3.80,12.80
+Italy,Individual,Yes,Yes,2024,4.00,2024-Q4,113.50,0.60,4.40,13.50
+Italy,Individual,Yes,Yes,2025,1.00,2025-Q1,113.30,-0.20,4.40,13.30
+Italy,Individual,Yes,Yes,2025,2.00,2025-Q2,116.40,2.70,3.90,16.40
+Italy,Individual,Yes,Yes,2025,3.00,2025-Q3,117.10,0.60,3.80,17.10
+Latvia,Individual,Yes,Yes,2022,4.00,2022-Q4,186.61,-0.60,8.60,86.61
+Latvia,Individual,Yes,Yes,2023,1.00,2023-Q1,186.40,-0.10,5.90,86.40
+Latvia,Individual,Yes,Yes,2023,2.00,2023-Q2,195.54,4.90,5.40,95.54
+Latvia,Individual,Yes,Yes,2023,3.00,2023-Q3,193.46,-1.10,3.00,93.46
+Latvia,Individual,Yes,Yes,2023,4.00,2023-Q4,188.14,-2.70,0.80,88.14
+Latvia,Individual,Yes,Yes,2024,1.00,2024-Q1,193.14,2.70,3.60,93.14
+Latvia,Individual,Yes,Yes,2024,2.00,2024-Q2,196.94,2.00,0.70,96.94
+Latvia,Individual,Yes,Yes,2024,3.00,2024-Q3,203.62,3.40,5.30,103.62
+Latvia,Individual,Yes,Yes,2024,4.00,2024-Q4,201.90,-0.80,7.30,101.90
+Latvia,Individual,Yes,Yes,2025,1.00,2025-Q1,203.64,0.90,5.40,103.64
+Latvia,Individual,Yes,Yes,2025,2.00,2025-Q2,209.67,3.00,6.50,109.67
+Latvia,Individual,Yes,Yes,2025,3.00,2025-Q3,220.67,5.20,8.40,120.67
+Lithuania,Individual,Yes,Yes,2022,4.00,2022-Q4,203.46,1.90,16.00,103.46
+Lithuania,Individual,Yes,Yes,2023,1.00,2023-Q1,207.18,1.80,13.10,107.18
+Lithuania,Individual,Yes,Yes,2023,2.00,2023-Q2,212.05,2.40,9.40,112.05
+Lithuania,Individual,Yes,Yes,2023,3.00,2023-Q3,217.15,2.40,8.70,117.15
+Lithuania,Individual,Yes,Yes,2023,4.00,2023-Q4,220.40,1.50,8.30,120.40
+Lithuania,Individual,Yes,Yes,2024,1.00,2024-Q1,227.70,3.30,9.90,127.70
+Lithuania,Individual,Yes,Yes,2024,2.00,2024-Q2,234.01,2.80,10.40,134.01
+Lithuania,Individual,Yes,Yes,2024,3.00,2024-Q3,236.40,1.00,8.90,136.40
+Lithuania,Individual,Yes,Yes,2024,4.00,2024-Q4,241.98,2.40,9.80,141.98
+Lithuania,Individual,Yes,Yes,2025,1.00,2025-Q1,247.69,2.40,8.80,147.69
+Lithuania,Individual,Yes,Yes,2025,2.00,2025-Q2,254.53,2.80,8.80,154.53
+Lithuania,Individual,Yes,Yes,2025,3.00,2025-Q3,262.01,2.90,10.80,162.01
+Luxembourg,Individual,Yes,Yes,2022,4.00,2022-Q4,189.35,-1.50,5.50,89.35
+Luxembourg,Individual,Yes,Yes,2023,1.00,2023-Q1,181.20,-4.30,-1.70,81.20
+Luxembourg,Individual,Yes,Yes,2023,2.00,2023-Q2,177.25,-2.20,-5.90,77.25
+Luxembourg,Individual,Yes,Yes,2023,3.00,2023-Q3,165.52,-6.60,-13.90,65.52
+Luxembourg,Individual,Yes,Yes,2023,4.00,2023-Q4,161.96,-2.20,-14.50,61.96
+Luxembourg,Individual,Yes,Yes,2024,1.00,2024-Q1,160.90,-0.70,-11.20,60.90
+Luxembourg,Individual,Yes,Yes,2024,2.00,2024-Q2,162.41,0.90,-8.40,62.41
+Luxembourg,Individual,Yes,Yes,2024,3.00,2024-Q3,162.44,0.00,-1.90,62.44
+Luxembourg,Individual,Yes,Yes,2024,4.00,2024-Q4,164.25,1.10,1.40,64.25
+Luxembourg,Individual,Yes,Yes,2025,1.00,2025-Q1,162.54,-1.00,1.00,62.54
+Luxembourg,Individual,Yes,Yes,2025,2.00,2025-Q2,169.75,4.40,4.50,69.75
+Luxembourg,Individual,Yes,Yes,2025,3.00,2025-Q3,164.42,-3.10,1.20,64.42
+Malta,Individual,Yes,Yes,2022,4.00,2022-Q4,147.24,0.70,5.90,47.24
+Malta,Individual,Yes,Yes,2023,1.00,2023-Q1,149.89,1.80,7.30,49.89
+Malta,Individual,Yes,Yes,2023,2.00,2023-Q2,152.24,1.60,5.30,52.24
+Malta,Individual,Yes,Yes,2023,3.00,2023-Q3,154.51,1.50,5.70,54.51
+Malta,Individual,Yes,Yes,2023,4.00,2023-Q4,157.05,1.60,6.70,57.05
+Malta,Individual,Yes,Yes,2024,1.00,2024-Q1,159.98,1.90,6.70,59.98
+Malta,Individual,Yes,Yes,2024,2.00,2024-Q2,162.74,1.70,6.90,62.74
+Malta,Individual,Yes,Yes,2024,3.00,2024-Q3,165.26,1.50,7.00,65.26
+Malta,Individual,Yes,Yes,2024,4.00,2024-Q4,166.96,1.00,6.30,66.96
+Malta,Individual,Yes,Yes,2025,1.00,2025-Q1,169.36,1.40,5.90,69.36
+Malta,Individual,Yes,Yes,2025,2.00,2025-Q2,171.84,1.50,5.60,71.84
+Malta,Individual,Yes,Yes,2025,3.00,2025-Q3,174.63,1.60,5.70,74.63
+Netherlands,Individual,Yes,Yes,2022,4.00,2022-Q4,185.89,-2.10,5.70,85.89
+Netherlands,Individual,Yes,Yes,2023,1.00,2023-Q1,183.14,-1.50,0.10,83.14
+Netherlands,Individual,Yes,Yes,2023,2.00,2023-Q2,180.92,-1.20,-4.10,80.92
+Netherlands,Individual,Yes,Yes,2023,3.00,2023-Q3,182.91,1.10,-3.70,82.91
+Netherlands,Individual,Yes,Yes,2023,4.00,2023-Q4,186.07,1.70,0.10,86.07
+Netherlands,Individual,Yes,Yes,2024,1.00,2024-Q1,189.87,2.00,3.70,89.87
+Netherlands,Individual,Yes,Yes,2024,2.00,2024-Q2,194.81,2.60,7.70,94.81
+Netherlands,Individual,Yes,Yes,2024,3.00,2024-Q3,201.98,3.70,10.40,101.98
+Netherlands,Individual,Yes,Yes,2024,4.00,2024-Q4,206.31,2.10,10.90,106.31
+Netherlands,Individual,Yes,Yes,2025,1.00,2025-Q1,210.27,1.90,10.70,110.27
+Netherlands,Individual,Yes,Yes,2025,2.00,2025-Q2,213.35,1.50,9.50,113.35
+Netherlands,Individual,Yes,Yes,2025,3.00,2025-Q3,217.61,2.00,7.70,117.61
+Norway,Individual,No,No,2022,4.00,2022-Q4,142.62,-3.60,3.00,42.62
+Norway,Individual,No,No,2023,1.00,2023-Q1,147.07,3.10,1.70,47.07
+Norway,Individual,No,No,2023,2.00,2023-Q2,150.50,2.30,1.90,50.50
+Norway,Individual,No,No,2023,3.00,2023-Q3,147.25,-2.20,-0.50,47.25
+Norway,Individual,No,No,2023,4.00,2023-Q4,145.68,-1.10,2.10,45.68
+Norway,Individual,No,No,2024,1.00,2024-Q1,149.75,2.80,1.80,49.75
+Norway,Individual,No,No,2024,2.00,2024-Q2,154.96,3.50,3.00,54.96
+Norway,Individual,No,No,2024,3.00,2024-Q3,154.35,-0.40,4.80,54.35
+Norway,Individual,No,No,2024,4.00,2024-Q4,152.59,-1.10,4.70,52.59
+Norway,Individual,No,No,2025,1.00,2025-Q1,159.86,4.80,6.80,59.86
+Norway,Individual,No,No,2025,2.00,2025-Q2,163.15,2.10,5.30,63.15
+Norway,Individual,No,No,2025,3.00,2025-Q3,162.28,-0.50,5.10,62.28
+Poland,Individual,Yes,No,2022,4.00,2022-Q4,169.64,1.40,9.30,69.64
+Poland,Individual,Yes,No,2023,1.00,2023-Q1,169.52,-0.10,5.80,69.52
+Poland,Individual,Yes,No,2023,2.00,2023-Q2,175.00,3.20,7.00,75.00
+Poland,Individual,Yes,No,2023,3.00,2023-Q3,182.88,4.50,9.30,82.88
+Poland,Individual,Yes,No,2023,4.00,2023-Q4,191.72,4.80,13.00,91.72
+Poland,Individual,Yes,No,2024,1.00,2024-Q1,200.04,4.30,18.00,100.04
+Poland,Individual,Yes,No,2024,2.00,2024-Q2,205.92,2.90,17.70,105.92
+Poland,Individual,Yes,No,2024,3.00,2024-Q3,209.20,1.60,14.40,109.20
+Poland,Individual,Yes,No,2024,4.00,2024-Q4,211.65,1.20,10.40,111.65
+Poland,Individual,Yes,No,2025,1.00,2025-Q1,213.20,0.70,6.60,113.20
+Poland,Individual,Yes,No,2025,2.00,2025-Q2,215.66,1.20,4.70,115.66
+Poland,Individual,Yes,No,2025,3.00,2025-Q3,217.54,0.90,4.00,117.54
+Portugal,Individual,Yes,Yes,2022,4.00,2022-Q4,195.91,1.10,11.30,95.91
+Portugal,Individual,Yes,Yes,2023,1.00,2023-Q1,198.55,1.30,8.70,98.55
+Portugal,Individual,Yes,Yes,2023,2.00,2023-Q2,204.74,3.10,8.70,104.74
+Portugal,Individual,Yes,Yes,2023,3.00,2023-Q3,208.48,1.80,7.60,108.48
+Portugal,Individual,Yes,Yes,2023,4.00,2023-Q4,211.27,1.30,7.80,111.27
+Portugal,Individual,Yes,Yes,2024,1.00,2024-Q1,212.45,0.60,7.00,112.45
+Portugal,Individual,Yes,Yes,2024,2.00,2024-Q2,220.74,3.90,7.80,120.74
+Portugal,Individual,Yes,Yes,2024,3.00,2024-Q3,228.89,3.70,9.80,128.89
+Portugal,Individual,Yes,Yes,2024,4.00,2024-Q4,235.68,3.00,11.60,135.68
+Portugal,Individual,Yes,Yes,2025,1.00,2025-Q1,247.05,4.80,16.30,147.05
+Portugal,Individual,Yes,Yes,2025,2.00,2025-Q2,258.78,4.70,17.20,158.78
+Portugal,Individual,Yes,Yes,2025,3.00,2025-Q3,269.35,4.10,17.70,169.35
+Romania,Individual,Yes,No,2022,4.00,2022-Q4,146.83,2.50,6.80,46.83
+Romania,Individual,Yes,No,2023,1.00,2023-Q1,146.28,-0.40,4.60,46.28
+Romania,Individual,Yes,No,2023,2.00,2023-Q2,145.14,-0.80,0.10,45.14
+Romania,Individual,Yes,No,2023,3.00,2023-Q3,150.02,3.40,4.80,50.02
+Romania,Individual,Yes,No,2023,4.00,2023-Q4,152.28,1.50,3.70,52.28
+Romania,Individual,Yes,No,2024,1.00,2024-Q1,154.26,1.30,5.50,54.26
+Romania,Individual,Yes,No,2024,2.00,2024-Q2,155.06,0.50,6.80,55.06
+Romania,Individual,Yes,No,2024,3.00,2024-Q3,155.86,0.50,3.90,55.86
+Romania,Individual,Yes,No,2024,4.00,2024-Q4,158.36,1.60,4.00,58.36
+Romania,Individual,Yes,No,2025,1.00,2025-Q1,161.75,2.10,4.90,61.75
+Romania,Individual,Yes,No,2025,2.00,2025-Q2,162.38,0.40,4.70,62.38
+Romania,Individual,Yes,No,2025,3.00,2025-Q3,166.14,2.30,6.60,66.14
+Slovakia,Individual,Yes,Yes,2022,4.00,2022-Q4,179.07,-0.80,9.70,79.07
+Slovakia,Individual,Yes,Yes,2023,1.00,2023-Q1,178.82,-0.10,7.50,78.82
+Slovakia,Individual,Yes,Yes,2023,2.00,2023-Q2,171.75,-4.00,-2.20,71.75
+Slovakia,Individual,Yes,Yes,2023,3.00,2023-Q3,173.20,0.80,-4.10,73.20
+Slovakia,Individual,Yes,Yes,2023,4.00,2023-Q4,176.56,1.90,-1.40,76.56
+Slovakia,Individual,Yes,Yes,2024,1.00,2024-Q1,173.51,-1.70,-3.00,73.51
+Slovakia,Individual,Yes,Yes,2024,2.00,2024-Q2,178.70,3.00,4.00,78.70
+Slovakia,Individual,Yes,Yes,2024,3.00,2024-Q3,183.88,2.90,6.20,83.88
+Slovakia,Individual,Yes,Yes,2024,4.00,2024-Q4,190.58,3.60,7.90,90.58
+Slovakia,Individual,Yes,Yes,2025,1.00,2025-Q1,194.60,2.10,12.20,94.60
+Slovakia,Individual,Yes,Yes,2025,2.00,2025-Q2,198.85,2.20,11.30,98.85
+Slovakia,Individual,Yes,Yes,2025,3.00,2025-Q3,208.52,4.90,13.40,108.52
+Slovenia,Individual,Yes,Yes,2022,4.00,2022-Q4,178.83,1.40,11.60,78.83
+Slovenia,Individual,Yes,Yes,2023,1.00,2023-Q1,181.96,1.80,9.00,81.96
+Slovenia,Individual,Yes,Yes,2023,2.00,2023-Q2,185.39,1.90,7.50,85.39
+Slovenia,Individual,Yes,Yes,2023,3.00,2023-Q3,186.33,0.50,5.60,86.33
+Slovenia,Individual,Yes,Yes,2023,4.00,2023-Q4,191.19,2.60,6.90,91.19
+Slovenia,Individual,Yes,Yes,2024,1.00,2024-Q1,195.44,2.20,7.40,95.44
+Slovenia,Individual,Yes,Yes,2024,2.00,2024-Q2,198.33,1.50,7.00,98.33
+Slovenia,Individual,Yes,Yes,2024,3.00,2024-Q3,201.54,1.60,8.20,101.54
+Slovenia,Individual,Yes,Yes,2024,4.00,2024-Q4,205.71,2.10,7.60,105.71
+Slovenia,Individual,Yes,Yes,2025,1.00,2025-Q1,201.66,-2.00,3.20,101.66
+Slovenia,Individual,Yes,Yes,2025,2.00,2025-Q2,209.31,3.80,5.50,109.31
+Slovenia,Individual,Yes,Yes,2025,3.00,2025-Q3,207.03,-1.10,2.70,107.03
+Spain,Individual,Yes,Yes,2022,4.00,2022-Q4,142.99,-0.80,5.50,42.99
+Spain,Individual,Yes,Yes,2023,1.00,2023-Q1,143.98,0.70,3.50,43.98
+Spain,Individual,Yes,Yes,2023,2.00,2023-Q2,146.97,2.10,3.70,46.97
+Spain,Individual,Yes,Yes,2023,3.00,2023-Q3,150.68,2.50,4.50,50.68
+Spain,Individual,Yes,Yes,2023,4.00,2023-Q4,149.13,-1.00,4.30,49.13
+Spain,Individual,Yes,Yes,2024,1.00,2024-Q1,153.18,2.70,6.40,53.18
+Spain,Individual,Yes,Yes,2024,2.00,2024-Q2,158.63,3.60,7.90,58.63
+Spain,Individual,Yes,Yes,2024,3.00,2024-Q3,163.12,2.80,8.30,63.12
+Spain,Individual,Yes,Yes,2024,4.00,2024-Q4,166.07,1.80,11.40,66.07
+Spain,Individual,Yes,Yes,2025,1.00,2025-Q1,172.00,3.60,12.30,72.00
+Spain,Individual,Yes,Yes,2025,2.00,2025-Q2,178.89,4.00,12.80,78.89
+Spain,Individual,Yes,Yes,2025,3.00,2025-Q3,184.06,2.90,12.80,84.06
+Sweden,Individual,Yes,No,2022,4.00,2022-Q4,133.49,-3.60,-3.70,33.49
+Sweden,Individual,Yes,No,2023,1.00,2023-Q1,132.37,-0.80,-6.90,32.37
+Sweden,Individual,Yes,No,2023,2.00,2023-Q2,133.15,0.60,-6.80,33.15
+Sweden,Individual,Yes,No,2023,3.00,2023-Q3,132.61,-0.40,-4.20,32.61
+Sweden,Individual,Yes,No,2023,4.00,2023-Q4,129.59,-2.30,-2.90,29.59
+Sweden,Individual,Yes,No,2024,1.00,2024-Q1,130.30,0.50,-1.60,30.30
+Sweden,Individual,Yes,No,2024,2.00,2024-Q2,132.13,1.40,-0.80,32.13
+Sweden,Individual,Yes,No,2024,3.00,2024-Q3,133.00,0.70,0.30,33.00
+Sweden,Individual,Yes,No,2024,4.00,2024-Q4,132.64,-0.30,2.40,32.64
+Sweden,Individual,Yes,No,2025,1.00,2025-Q1,132.73,0.10,1.90,32.73
+Sweden,Individual,Yes,No,2025,2.00,2025-Q2,133.01,0.20,0.70,33.01
+Sweden,Individual,Yes,No,2025,3.00,2025-Q3,133.67,0.50,0.50,33.67
+Switzerland,Individual,No,No,2022,4.00,2022-Q4,,1.20,4.80,
+Switzerland,Individual,No,No,2023,1.00,2023-Q1,,-1.20,3.90,
+Switzerland,Individual,No,No,2023,2.00,2023-Q2,,1.20,2.40,
+Switzerland,Individual,No,No,2023,3.00,2023-Q3,,0.20,1.30,
+Switzerland,Individual,No,No,2023,4.00,2023-Q4,,1.10,1.30,
+Switzerland,Individual,No,No,2024,1.00,2024-Q1,,-1.00,1.50,
+Switzerland,Individual,No,No,2024,2.00,2024-Q2,,1.10,1.40,
+Switzerland,Individual,No,No,2024,3.00,2024-Q3,,0.50,1.70,
+Switzerland,Individual,No,No,2024,4.00,2024-Q4,,1.80,2.40,
+Switzerland,Individual,No,No,2025,1.00,2025-Q1,,0.70,4.10,
+Switzerland,Individual,No,No,2025,2.00,2025-Q2,,1.90,5.00,
+Switzerland,Individual,No,No,2025,3.00,2025-Q3,,0.80,5.20,
+Türkiye,Individual,No,No,2022,4.00,2022-Q4,783.05,14.40,170.50,683.05
+Türkiye,Individual,No,No,2023,1.00,2023-Q1,960.71,22.70,142.70,860.71
+Türkiye,Individual,No,No,2023,2.00,2023-Q2,1112.22,15.80,91.00,1012.22
+Türkiye,Individual,No,No,2023,3.00,2023-Q3,1325.85,19.20,93.80,1225.85
+Türkiye,Individual,No,No,2023,4.00,2023-Q4,1466.37,10.60,87.30,1366.37
+Türkiye,Individual,No,No,2024,1.00,2024-Q1,1569.31,7.00,63.30,1469.31
+Türkiye,Individual,No,No,2024,2.00,2024-Q2,1664.83,6.10,49.70,1564.83
+Türkiye,Individual,No,No,2024,3.00,2024-Q3,1767.04,6.10,33.30,1667.04
+Türkiye,Individual,No,No,2024,4.00,2024-Q4,1884.94,6.70,28.50,1784.94
